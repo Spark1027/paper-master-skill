@@ -2,7 +2,7 @@
 
 面向计算神经科学、脑建模与复杂系统研究读者的中文论文阅读 Skill。可以按需组合总结、科学论证评议、相关文献检索和主题综述，并明确公式、参数、来源及阅读边界。
 
-**当前状态：首发本地审阅稿，尚未发布到 GitHub。** 计划仓库为 `Spark1027/paper-master-skill`。本项目由 Spark1027 在 AI Harness 学习与真实论文阅读实践中整理，并借助 AI 辅助编写；方法借鉴及许可见 [第三方说明](THIRD_PARTY_NOTICES.md)。
+**已公开发布：** [Spark1027/paper-master-skill](https://github.com/Spark1027/paper-master-skill)。本项目由 Spark1027 在 AI Harness 学习与真实论文阅读实践中整理，并借助 AI 辅助编写；方法借鉴及许可见 [第三方说明](THIRD_PARTY_NOTICES.md)。
 
 它是一套由兼容的 AI 助手读取并执行的指令，不是独立运行的论文软件。效果依赖模型、输入材料和可用工具；结构检查或单次示例不能保证科学判断正确。
 
@@ -19,7 +19,7 @@
 
 ## 安装
 
-适用于能够识别 `SKILL.md` 及相对引用文件的 Codex 环境。先通过 ZIP 或克隆取得本仓库，进入仓库根目录；发布后仓库名应为 `paper-master-skill`。以下命令仅复制 Skill 八个文件，不复制案例和文档，也不会覆盖已有安装：
+适用于能够识别 `SKILL.md` 及相对引用文件的 Codex 环境。先从 [GitHub 仓库](https://github.com/Spark1027/paper-master-skill) 下载 ZIP，或运行 `git clone https://github.com/Spark1027/paper-master-skill.git`，再进入 `paper-master-skill` 仓库根目录。以下命令仅复制 Skill 八个文件，不复制案例和文档，也不会覆盖已有安装：
 
 ```sh
 (
