@@ -1,6 +1,6 @@
 # paper-master
 
-面向计算神经科学、脑建模与复杂系统研究读者的中文论文阅读 Skill。可以按需组合总结、科学论证评议、相关文献检索和主题综述，并明确公式、参数、来源及阅读边界。
+面向科研工作者的中文论文阅读 Skill。可以按需组合总结、科学论证评议、相关文献检索和主题综述，并明确公式、参数、来源及阅读边界。
 
 **已公开发布：** [Spark1027/paper-master-skill](https://github.com/Spark1027/paper-master-skill)。本项目由 Spark1027 在 AI Harness 学习与真实论文阅读实践中整理，并借助 AI 辅助编写；方法借鉴及许可见 [第三方说明](THIRD_PARTY_NOTICES.md)。
 
